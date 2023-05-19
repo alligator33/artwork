@@ -15,7 +15,7 @@
       />
     </div>
     <nav class="space-x-4">
-      <a href="#" class="text-white">Explore</a>
+      <a href="#" class="text-white">Explores</a>
       <a href="#" class="text-white">How it works</a>
       <a href="#" class="text-white">About</a>
     </nav>
